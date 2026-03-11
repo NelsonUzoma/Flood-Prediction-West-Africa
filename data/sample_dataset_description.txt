@@ -1,0 +1,10 @@
+Potential datasets for flood prediction research:
+
+1. Rainfall measurements from meteorological stations
+2. Satellite precipitation data (CHIRPS dataset)
+3. River discharge and water level measurements
+4. Digital elevation models
+5. Land use and urban development data
+6. Historical flood reports from coastal cities in West Africa
+
+These datasets could be combined to train machine learning models that predict flood risk.
